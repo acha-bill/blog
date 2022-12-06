@@ -29,13 +29,13 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ioredis": "^4.2.0",
     "jsonwebtoken": "^8.4.0",
     "moleculer": "^0.13.5",
     "moleculer-db": "^0.7.6",
     "moleculer-db-adapter-mongo": "^0.4.2",
-    "moleculer-web": "^0.8.5",
+    "moleculer-web": "^0.10.4",
     "nats": "^1.0.1"
   },
   "engines": {
