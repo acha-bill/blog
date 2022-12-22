@@ -31,7 +31,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "ioredis": "^4.2.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "moleculer": "^0.13.5",
     "moleculer-db": "^0.7.6",
     "moleculer-db-adapter-mongo": "^0.4.2",
